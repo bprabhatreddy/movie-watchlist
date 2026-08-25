@@ -24,7 +24,7 @@ def search_result():
     movie_name = input("Enter the movie name: ").strip()
 
     if not movie_name:
-        print("Please enter a show name.")
+        print("Please enter the show name.")
         return None
 
     params = {
