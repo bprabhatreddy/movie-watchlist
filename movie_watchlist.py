@@ -2,6 +2,7 @@
 
 #Smth other than the line i wrote in conflict branch
 
+
 import requests
 import sqlite3
 
